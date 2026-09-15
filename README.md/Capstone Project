@@ -1,0 +1,57 @@
+# Task 5 - Capstone Project
+
+## Web Application Penetration Testing Using DVWA
+
+For my final project, I performed security testing on DVWA (Damn Vulnerable Web Application) in my local authorized lab environment.
+
+## Objective
+
+The main objective was to understand common web application vulnerabilities and learn how security testing can help identify them.
+
+## Lab Environment
+
+- Kali Linux
+- Metasploitable 2
+- DVWA
+- Burp Suite
+- Firefox
+
+## Vulnerabilities Practiced
+
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Command Execution
+- File Inclusion
+- CSRF
+- Brute Force
+- File Upload
+
+## Security Testing
+
+I used Burp Suite to capture and modify HTTP requests and responses.
+
+I also used different inputs in DVWA to understand how vulnerable web applications can be attacked.
+
+## Findings
+
+The testing showed that insecure input handling and weak security controls can allow attackers to perform unauthorized actions or access sensitive information.
+
+## Recommendations
+
+- Validate user input
+- Use parameterized queries
+- Implement proper authentication
+- Use secure session management
+- Apply security headers
+- Keep software updated
+- Follow secure coding practices
+
+## Learning Outcome
+
+This project helped me understand the basic process of web application penetration testing, vulnerability identification and security recommendations.
+
+## Conclusion
+
+The capstone project helped me combine the cybersecurity concepts and practical skills I learned during the internship.
+
+All testing was performed only in an authorized educational lab environment.
