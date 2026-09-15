@@ -1,0 +1,40 @@
+# Task 3 - Web Application Security
+
+In this task, I learned the basics of web application security and practiced identifying common web vulnerabilities in a safe lab environment.
+
+## What I Learned
+
+- Web application security
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Command Injection
+- File Inclusion
+- CSRF
+- Brute Force
+- File Upload vulnerabilities
+- Burp Suite
+- HTTP requests and responses
+
+## Tools Used
+
+- Kali Linux
+- DVWA
+- Burp Suite
+- Firefox
+
+## Lab Environment
+
+I used DVWA (Damn Vulnerable Web Application) running on my local Metasploitable 2 machine.
+
+DVWA URL:
+
+`http://192.168.56.101/dvwa/`
+
+## SQL Injection
+
+I practiced SQL Injection in DVWA and tested different input values.
+
+Example:
+
+```text
+1' OR '1'='1
